@@ -1,4 +1,8 @@
 def it_was_ok
+
+    # Movie.where(yr: 1970..1979, score: 2..3).select(:id, :title, :score)
+
+
   # Consider the following:
   #
   # Movie.where(yr: 1970..1979)
